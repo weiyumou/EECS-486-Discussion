@@ -1,0 +1,2 @@
+This course will cover traditional material, as well as recent advances in Information Retrieval (IR), the study of indexing, processing, querying, and classifying data. 
+Basic retrieval models, algorithms, and IR system implementations will be covered. 
